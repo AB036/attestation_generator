@@ -11,6 +11,7 @@ Tout ça grâce à un fichier html de 750 kB avec du javascript.
 ## Comment installer
 
 - Télécharger le fichier `attestation_generator.html`
+    - Utiliser ce lien : https://raw.githubusercontent.com/AB036/attestation_generator/master/attestation_generator.html
 - Modifier les valeurs aux lignes 57, 66, 77, 88, 97, 106 et 121 avec vos informations. Elles seront utilisées pour pré-remplir le formulaire avec des valeurs par défaut.
 
 ## Comment utiliser
