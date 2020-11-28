@@ -26,3 +26,9 @@ Les projets suivants ont été utilisés (tous sous licence MIT) :
 - https://github.com/tyxla/remove-accents
 - https://github.com/Hopding/pdf-lib
 - https://github.com/soldair/node-qrcode
+
+## Version du 28 novembre 2020
+
+Le dépôt est à jour avec la nouvelle attestation.
+
+Merci les gars : https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020/issues/162
